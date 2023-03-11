@@ -11,11 +11,7 @@ The website is created by Lohith Bollineni and collects information from various
 
 Please note that while some data is fetched from official sources, a lot of it has been analyzed through various data analysis techniques and spreadsheet manipulation. The rights to this data belong to the respective owners.
 
-## Data Analysis and Visualization
-
-Data can be beautiful, and this website aims to bring you the best visualizations and analysis of the data. If you're a fan of Shark Tank India, please feel free to share this site with your friends.
-
-You can also visit [this](https://sharktankindia.streamlit.app/) to see more details!
+The website is live at: [https://sharktankindia.streamlit.app/](https://sharktankindia.streamlit.app/)
 
 ## Screenshots
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -26,6 +22,30 @@ You can also visit [this](https://sharktankindia.streamlit.app/) to see more det
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="src/components//stiw3.JPG" alt="Shark Tank India" width="900">
+</div>
+
+
+## Data Analysis and Visualization
+
+Data can be beautiful, and this website aims to bring you the best visualizations and analysis of the data. If you're a fan of Shark Tank India, please feel free to share this site with your friends.
+
+Interested to see more such data and charts? You can also look at the complete list of pithces and details of each pitch.
+Check out [https://sharktankindia.streamlit.app/](https://sharktankindia.streamlit.app/) !!
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="src/components//stiw4.JPG" alt="Shark Tank India" width="900">
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="src/components//stiw5.JPG" alt="Shark Tank India" width="900">
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="src/components//stiw6.JPG" alt="Shark Tank India" width="900">
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="src/components//stiw7.JPG" alt="Shark Tank India" width="900">
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="src/components//stiw8.JPG" alt="Shark Tank India" width="900">
 </div>
 
 ## Note
