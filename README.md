@@ -1,3 +1,5 @@
+![Shark Tank India](src/components//stilogo.png)
+
 # Welcome to the Unofficial Website for Shark Tank India
 
 This website is dedicated to Shark Tank India, a Hindi-language business reality television series that airs on Sony Entertainment Television. On this site, you can find pitch details, shark information, and other interesting data about the show. 
