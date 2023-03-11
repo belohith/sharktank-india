@@ -1,4 +1,7 @@
-![Shark Tank India](src/components//stilogo.png)
+<div style="display: flex; justify-content: center;">
+  <img src="src/components//stilogo.png" alt="Shark Tank India" width="400" height="300">
+</div>
+
 
 # Welcome to the Unofficial Website for Shark Tank India
 
