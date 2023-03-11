@@ -11,7 +11,7 @@ The website is created by Lohith Bollineni and collects information from various
 
 Please note that while some data is fetched from official sources, a lot of it has been analyzed through various data analysis techniques and spreadsheet manipulation. The rights to this data belong to the respective owners.
 
-The website is live at: [https://sharktankindia.streamlit.app/](https://sharktankindia.streamlit.app/)
+The website is live at: [https://sharktank-india.web.app/](https://sharktank-india.web.app/)
 
 ## Screenshots
 <div style="display: flex; justify-content: center; align-items: center;">
