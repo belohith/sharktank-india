@@ -15,6 +15,19 @@ Please note that while some data is fetched from official sources, a lot of it h
 
 Data can be beautiful, and this website aims to bring you the best visualizations and analysis of the data. If you're a fan of Shark Tank India, please feel free to share this site with your friends.
 
+You can also visit [this](https://sharktankindia.streamlit.app/) to see more details!
+
+## Screenshots
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="src/components//stiw1.JPG" alt="Shark Tank India" width="300">
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="src/components//stiw2.JPG" alt="Shark Tank India" width="300">
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="src/components//stiw1.JPG" alt="Shark Tank India" width="300">
+</div>
+
 ## Note
 
 Some details are yet to be updated, such as the social media sites of a few companies from both seasons. We apologize for any inconvenience and will update the site soon.
