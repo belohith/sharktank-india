@@ -1,0 +1,222 @@
+.nav-item {
+  cursor: pointer;
+  margin: 0 10px auto;
+  text-decoration: none;
+  color: #fadf71;
+}
+
+.cursor-p {
+  cursor: pointer;
+}
+
+.tab1 {
+  background-color: #fadf71;
+  border: 1px solid #fadf71;
+  color: #000;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 10px;
+  font-size: 1.2rem;
+}
+
+.tab2 {
+  background-color: transparent;
+  border: 1px solid #0f8bb9;
+  color: #0f8bb9;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 10px;
+  font-size: 1.2rem;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stat1 {
+  color: #fadf71;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.stat-box1 {
+  display: "flex";
+  justify-content: "center";
+  width: 350px;
+  margin: 10px;
+  background-color: #212121;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.stat-box1:hover {
+  background-color: #111010;
+}
+
+.stat2 {
+  color: #fadf71;
+  font-weight: bold;
+}
+
+.stat-box2 {
+  width: 800px;
+  margin: 10px;
+  background-color: #111010;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 10px;
+  color: #fadf71;
+}
+
+/* Media Queries */
+
+@media only screen and (max-width: 768px) {
+  .center {
+    flex-direction: column;
+  }
+
+  .stat-box1 {
+    width: 100%;
+  }
+
+  .stat-box2 {
+    width: 100%;
+  }
+
+  .nav-item {
+    margin: 0 5px auto;
+  }
+
+  .tab1,
+  .tab2 {
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .nav-item {
+    margin: 0 2px auto;
+  }
+
+  .tab1,
+  .tab2 {
+    font-size: 0.8rem;
+  }
+}
+
+/* Scrollbar Styles */
+
+::-webkit-scrollbar {
+  width: 0.5rem; /* Remove scrollbar space */
+  background: #111111; /* Optional: just make scrollbar invisible */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #fadf71; /* Optional: just make scrollbar invisible */
+  border-radius: 10px;
+}
+
+.home {
+  max-width: 1100px;
+  width: 100%;
+  margin: 10px auto;
+}
+
+/* Media Queries */
+
+@media only screen and (max-width: 768px) {
+  .home {
+    width: 100%;
+    max-width: 600px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .home {
+    width: 100%;
+    max-width: 450px;
+  }
+}
+
+.homesection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* Media Queries */
+
+@media only screen and (max-width: 768px) {
+  .homesection {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: stretch;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .homesection {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+}
+
+.seasonssection {
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Media Queries */
+  
+  @media only screen and (max-width: 768px) {
+    .seasonssection {
+      flex-direction: column;
+      align-items: center;
+      padding: 15px;
+    }
+  }
+  
+  @media only screen and (max-width: 480px) {
+    .seasonssection {
+        flex-direction: column;
+        align-items: center;
+      }
+  }
+
+  .seasonstab {
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .seasonstab .tab {
+    width: 45%;
+    margin: 10px;
+  }
+  
+  /* Media Queries */
+  
+  @media only screen and (max-width: 768px) {
+    .seasonstab .tab {
+      width: 100%;
+      margin: 10px 0;
+    }
+  }
+  @media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .seasonstab .tab {
+      width: 45%;
+      margin: 10px;
+    }
+  }
+  
