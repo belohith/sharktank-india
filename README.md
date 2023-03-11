@@ -19,13 +19,13 @@ You can also visit [this](https://sharktankindia.streamlit.app/) to see more det
 
 ## Screenshots
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="src/components//stiw1.JPG" alt="Shark Tank India" width="300">
+  <img src="src/components//stiw1.JPG" alt="Shark Tank India" width="900">
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="src/components//stiw2.JPG" alt="Shark Tank India" width="300">
+  <img src="src/components//stiw2.JPG" alt="Shark Tank India" width="900">
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="src/components//stiw1.JPG" alt="Shark Tank India" width="300">
+  <img src="src/components//stiw3.JPG" alt="Shark Tank India" width="900">
 </div>
 
 ## Note
