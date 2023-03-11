@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center;">
-  <img src="src/components//stilogo.png" alt="Shark Tank India" width="400" height="300">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="src/components//stilogo.png" alt="Shark Tank India" width="300" height="300">
 </div>
 
 
