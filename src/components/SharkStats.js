@@ -39,7 +39,7 @@ function SharkStats(stats) {
         {activeTab === "season1" && (
           // Content for Season 1 goes here
           <div>
-            season 1
+            
             <SharkStatDetails
               noepi={stats.noepi1}
               nopit={stats.nopit1}
@@ -75,7 +75,7 @@ function SharkStats(stats) {
         {activeTab === "season2" && (
           // Content for Season 2 goes here
           <div>
-            season 2
+           
             <SharkStatDetails
               noepi={stats.noepi2}
               nopit={stats.nopit2}
@@ -110,7 +110,7 @@ function SharkStats(stats) {
         {activeTab === "overall" && (
           // Content for Season 2 goes here
           <div>
-            overall
+           
             <SharkStatDetails 
               noepi={stats.noepio}
               nopit={stats.nopito}

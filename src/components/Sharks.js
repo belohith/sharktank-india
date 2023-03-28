@@ -10,6 +10,8 @@ import namita from "./namita.jpg";
 import peyush from "./peyush.jpg";
 import vineeta from "./vineeta.jpg";
 
+import styles from "./style.css";
+
 function Sharks() {
   const [activeTab, setActiveTab] = useState("aman");
 
@@ -21,13 +23,7 @@ function Sharks() {
 
   return (
     <div style={{backgroundColor: "#0e0e0e"}}>
-      <p style={{
-        color: "#fadf71",
-        fontFamily: "Impact",
-        paddingTop: "5px",
-        fontSize: "4rem",
-        marginBottom: "20px"
-      }}>SHARK STATS</p>
+      <p className="header2">SHARK STATS</p>
       <div className="seasonstab">
         <button
           style={{ cursor: "pointer" }}

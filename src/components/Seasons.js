@@ -1,5 +1,6 @@
 import { useState } from "react";
 import SeasonStats from "./SeasonStats";
+import styles from "./style.css";
 
 function Seasons() {
   const [activeTab, setActiveTab] = useState("season1");
@@ -10,13 +11,7 @@ function Seasons() {
 
   return (
     <div>
-      <p style={{
-        color: "#fadf71",
-        fontFamily: "Impact",
-        paddingTop: "5px",
-        fontSize: "4rem",
-        marginBottom: "20px"
-      }}>SEASON STATS</p>
+      <p className='header2'>SEASON STATS</p>
       <div style={{ display: "flex", justifyContent: "center" }}>
         <button
           style={{ cursor: "pointer" }}
@@ -102,8 +97,8 @@ function Seasons() {
               totalAmountInvestedi="₹ 67.7 Crores"
               totalAmountInvestedd="₹ 13.46 Crores"
               totalNumberOfDeals="101"
-              highvalueask="₹ 560 Crores"
-              highvalueaskp = "Avimee Herbal"
+              highvalueask="₹ 600 Crores"
+              highvalueaskp = "Hood"
               lowvalueask="₹ 1.67 Crores"
               lowvalueaskp="Same Notifications"
               highvaluegive="₹ 250 Crores"
